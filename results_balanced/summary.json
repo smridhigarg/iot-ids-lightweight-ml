@@ -1,0 +1,28 @@
+{
+  "rows": 199995,
+  "features_total": 39,
+  "top_features": [
+    "Time_To_Live",
+    "Rate",
+    "Number",
+    "Header_Length",
+    "HTTPS",
+    "IAT",
+    "Tot sum",
+    "Max",
+    "AVG",
+    "Tot size",
+    "Variance",
+    "Std",
+    "ack_flag_number",
+    "Min",
+    "ack_count"
+  ],
+  "classes": [
+    "Benign",
+    "Attack"
+  ],
+  "best_model": "Random Forest (all features)",
+  "binary": true,
+  "balanced": true
+}
